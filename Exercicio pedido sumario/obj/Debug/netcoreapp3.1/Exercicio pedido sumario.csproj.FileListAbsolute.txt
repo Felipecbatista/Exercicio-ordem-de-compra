@@ -1,0 +1,14 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\bin\Debug\netcoreapp3.1\Exercicio pedido sumario.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\bin\Debug\netcoreapp3.1\Exercicio pedido sumario.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\bin\Debug\netcoreapp3.1\Exercicio pedido sumario.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\bin\Debug\netcoreapp3.1\Exercicio pedido sumario.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\bin\Debug\netcoreapp3.1\Exercicio pedido sumario.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\bin\Debug\netcoreapp3.1\Exercicio pedido sumario.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio pedido sumario\Exercicio pedido sumario\obj\Debug\netcoreapp3.1\Exercicio pedido sumario.genruntimeconfig.cache
